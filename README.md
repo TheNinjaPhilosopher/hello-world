@@ -1,2 +1,2 @@
-# hello-world
-Practice repository to learn Github
+# hello-world  
+This is an edit for readme.  
